@@ -7,7 +7,7 @@
 ### https://chatifynew.vercel.app/
 
 <div align="center">
-  <img alt="Demo" src="./Assets/chatify.png" />
+  <img alt="Demo" src="./Assets/image.png" />
 </div>
 
 </div>
